@@ -17,6 +17,7 @@ public class HelloWorld {
 		if(x+y > 20) {    
 		System.out.println("x + y is greater than 20");    
 		}  
+		System.out.println("How are you"); 
 	}
 
 }
