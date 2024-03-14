@@ -11,6 +11,7 @@ public class HelloWorld {
 		int d=a/b;
 		System.out.println("Addition of two number is"+c);
 		System.out.println("Divided a / b"+d);
+		System.out.println("Divided a / b"+d);
 	}
 
 }
